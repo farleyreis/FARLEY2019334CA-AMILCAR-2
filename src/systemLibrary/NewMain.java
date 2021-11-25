@@ -5,6 +5,12 @@
  */
 package systemLibrary; 
 
+
+/*Hello Aldana, as I work using inteliJ, when I finished the program and went to transfer to netbens,
+ I couldn't put the automatic main class, because I must have a compatibility problem with my operating system, macbook.
+ So to run the program, it must be run in the NewMain class.*/
+
+
 import java.util.Scanner;
 
 /**
